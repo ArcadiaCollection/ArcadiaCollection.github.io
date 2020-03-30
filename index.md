@@ -1,6 +1,7 @@
 <html>
 <body>
 <article style="text-align:center;">
+  <h1 style="align:center;">Penitência</h1>
 Ilhado em pensamentos <br/>
 No véu da dúvida <br/>
 Sob o reluzente por do sol <br/>
