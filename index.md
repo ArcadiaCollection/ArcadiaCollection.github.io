@@ -1,6 +1,6 @@
 <html>
 <body>
-<article style="align:center;">
+<article style="text-align:center;">
 Ilhado em pensamentos <br/>
 No véu da dúvida <br/>
 Sob o reluzente por do sol <br/>
