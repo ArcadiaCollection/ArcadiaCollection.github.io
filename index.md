@@ -1,5 +1,5 @@
 <html style="color: white; background-color: black;">
-<body>
+<body style="color: white; background-color: black;">
 <article style="text-align:center;">
   <h1 style="align:center;">Penitência</h1>
 Ilhado em pensamentos <br/>
