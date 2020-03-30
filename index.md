@@ -2,8 +2,7 @@
 <body>
 <style type="text/css">
     a { 
-      text-decoration: none;
-      color: white;
+      display:none;
    }
 </style>
 <article style="text-align:center;">
