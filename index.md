@@ -1,6 +1,12 @@
-<html style="background-color: black; color: #fff; text-decoration: none;">
-<body style="color: #fff; text-decoration: none;">
-<article style="text-align:center; color: black;">
+<html style="background-color: black;>
+<body>
+<style type="text/css">
+    a { 
+      text-decoration: none;
+      color: white;
+   }
+</style>
+<article style="text-align:center;>
   <h1 style="align:center;">Penitência</h1>
 Ilhado em pensamentos <br/>
 No véu da dúvida <br/>
