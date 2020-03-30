@@ -1,4 +1,4 @@
-<html style="background-color: black;>
+<html style="background-color: black;">
 <body>
 <style type="text/css">
     a { 
@@ -6,7 +6,7 @@
       color: white;
    }
 </style>
-<article style="text-align:center;>
+<article style="text-align:center;">
   <h1 style="align:center;">Penitência</h1>
 Ilhado em pensamentos <br/>
 No véu da dúvida <br/>
