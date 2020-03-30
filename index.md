@@ -74,5 +74,6 @@ De plumas e penagem <br/>
 Estou livre de meu fardo <br/>
 Desperto de tal triagem <br/>
 </article>
+  <footer>Escrito por Nikollas Viana <br/> Todos os direitos reservados ©</footer>
 </body>
 </html>
