@@ -1,5 +1,5 @@
 <html style="color: white; background-color: black;">
-<body style="color: white; background-color: black;">
+<body>
 <article style="text-align:center;">
   <h1 style="align:center;">Penitência</h1>
 Ilhado em pensamentos <br/>
@@ -74,6 +74,6 @@ De plumas e penagem <br/>
 Estou livre de meu fardo <br/>
 Desperto de tal triagem <br/>
 </article><br/><br/>
-  <footer style="text-align:center">Escrito por Nikollas Viana.              Todos os direitos reservados ©</footer>
+  <footer style="text-align:center">Escrito por Lutiere Potter.              Todos os direitos reservados ©</footer>
 </body>
 </html>
