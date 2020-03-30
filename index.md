@@ -73,7 +73,7 @@ Pois toco o chão <br/>
 De plumas e penagem <br/>
 Estou livre de meu fardo <br/>
 Desperto de tal triagem <br/>
-</article>
+</article><br/><br/>
   <footer style="text-align:center">Escrito por Nikollas Viana \t\t Todos os direitos reservados ©</footer>
 </body>
 </html>
